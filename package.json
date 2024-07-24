@@ -1,0 +1,21 @@
+{
+  "name": "salvatore-backend-deploy-e-seguranca",
+  "version": "1.0.0",
+  "description": "Projeto da Missão de Aprendizado da Profissão Dev BackEnd JavaScript, Nivel Iniciante:Deploy e Segurança",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-load": "^1.1.16",
+    "mongodb": "^6.8.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
